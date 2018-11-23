@@ -17,7 +17,7 @@ sudo apt-get install python3.6
 
 ### Instalando
 
-Nas linhas abaixo veremos os passos necessário para utilizar o projeto:
+Nas linhas abaixo veremos os passos necessários para utilizar o projeto:
 
 1. Clique no link ao lado para acessar o [Repositório](https://github.com/LorenzoTomaz/ud036_StarterCode) e faça o download da pasta do projeto
 2. Vá na pasta do projeto e localize o arquivo 'entertainment_center.py'
@@ -33,7 +33,7 @@ cd /home/pasta_do_projeto/
 python3 entertainment_center.py
 ```
 
-5. Pronto! espere uns segundos para visulizar a nova janela aberta automaticamente pelo seu navegador, clique na imagem do filme para assistir o trailer
+5. Pronto! Espere alguns segundos para visulizar a nova janela aberta automaticamente pelo seu navegador, clique na imagem do filme para assistir o trailer
 
 ## Autores
 
@@ -41,6 +41,5 @@ python3 entertainment_center.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+Este projeto tem licença MIT - veja [LICENSE.md](LICENSE.md) para mais detalhes
 
