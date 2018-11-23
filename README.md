@@ -47,4 +47,4 @@ Este projeto tem licença MIT - veja [LICENSE.md](LICENSE.md) para mais detalhes
 
 1. Todas as imagens foram extraídas da internet nos sites wikipédia.org e www.atoupeira.com.br
 2. Os vídeos foram retirados do youtube
-3. O autor do projeto não possui a licensa de cópia de nenhum dos vídeos
+3. O autor do projeto não possui a licença de cópia de nenhum dos vídeos
