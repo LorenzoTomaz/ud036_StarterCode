@@ -19,7 +19,7 @@ sudo apt-get install python3.6
 
 Nas linhas abaixo veremos os passos necessário para utilizar o projeto:
 
-1. Clique no link ao lado para acessar o repositório [Repositório](https://github.com/LorenzoTomaz/ud036_StarterCode) e faça o download da pasta do projeto
+1. Clique no link ao lado para acessar o [Repositório](https://github.com/LorenzoTomaz/ud036_StarterCode) e faça o download da pasta do projeto
 2. Vá na pasta do projeto e localize o arquivo 'entertainment_center.py'
 3. Vá no terminal e digite:cd 'caminho da pasta do projeto'
 ```
