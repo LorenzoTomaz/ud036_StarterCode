@@ -35,7 +35,7 @@ python3 entertainment_center.py
 
 ## Autores
 
-* **Lorenzo Tomaz** [Lorenzo Tomaz](https://github.com/LorenzoTomaz)
+* [Lorenzo Tomaz](https://github.com/LorenzoTomaz)
 
 ## License
 

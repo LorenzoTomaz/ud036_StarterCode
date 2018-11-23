@@ -10,8 +10,14 @@ o_auto_da_compadecida = media.Movie("O auto da compadecida", "O filme mostra as 
 
 o_homem_que_virou_suco = media.Movie("O homem que virou suco", "Um poeta popular do Nordeste chega a São Paulo, sobrevivendo apenas de suas poesias e folhetos. Porém sua vida muda quando ele é confundido com o operário de uma multinacional que matou o patrão em uma festa.", "http://d3swacfcujrr1g.cloudfront.net/img/uploads/2000/01/001151007019.jpg", "https://www.youtube.com/watch?v=FKo69RAElJg")
 
+central_do_brasil = media.Movie("Central do Brasil", "Dora, uma amargurada ex-professora, ganha a vida escrevendo cartas para pessoas analfabetas, que ditam o que querem contar às suas famílias. Ela embolsa o dinheiro sem sequer postar as cartas. Um dia, Josué, o filho de nove anos de idade de uma de suas clientes, acaba sozinho quando a mãe é morta em um acidente de ônibus. Ela reluta em cuidar do menino, mas se junta a ele em uma viagem pelo interior do Nordeste em busca do pai de Josué, que ele nunca conheceu.", "https://upload.wikimedia.org/wikipedia/pt/2/29/Central_do_Brasil_poster.jpg", "https://www.youtube.com/watch?v=xmMR46HsaBc")
+
+kenoma = media.Movie("Kenoma", "Um artesão de um pequeno povoado tenta construir uma máquina que trabalhe por ela mesma - de movimento perpétuo -, mas um poderoso proprietário de terras lhe impõe um prazo impossível de ser cumprido.", "https://upload.wikimedia.org/wikipedia/pt/2/2a/Kenoma.jpg", "https://www.youtube.com/watch?v=tVHfI4TFCeY")
+
+
+
 #cria uma lista com instâncias da classe Movie do arquivo media.py
-movies = [narradores_de_jave, era_o_hotel_cambridge, o_auto_da_compadecida, o_homem_que_virou_suco]
+movies = [narradores_de_jave, era_o_hotel_cambridge, o_auto_da_compadecida, o_homem_que_virou_suco, central_do_brasil]
 
 # inicia a função open_movies_page do arquivo fresh_tomatoes.py
 fresh_tomatoes.open_movies_page(movies)
